@@ -1,8 +1,8 @@
 # Java Developer
- `<Photo TBD>`
+![profile_photo.png](profile_photo.png)
 
 ## Summary
- `<TBD>`
+ * Coding as much as possible with Java and Spring
 
 ## Skills
 * `Spring` microservices 
