@@ -5,7 +5,9 @@
  * Coding as much as possible with Java and Spring
 
 ## Skills
+* `Java` as a primary programming language
 * `Spring` microservices 
+* `gradle` is my favorite build tool
 
 ## Work history
 | When      | Where              | Position       |
