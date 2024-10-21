@@ -9,6 +9,9 @@
 * `Spring` microservices 
 * `gradle` is my favorite build tool
 
+## Points to achive
+* `unit test enjoyer`
+
 ## Work history
 | When      | Where              | Position       |
 |-----------|--------------------|----------------|
