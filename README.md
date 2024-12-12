@@ -12,6 +12,10 @@
 * `Spring` microservices 
 * `gradle` is my favorite build tool
 
+## Metrics (enterprise polyrepo microservices)
+
+* avg. LOC ~ 3.5k
+
 ## Currently working on
 
 * `reunderstanding of OOP`
