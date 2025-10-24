@@ -21,6 +21,10 @@ Leading backend developer (Kotlin/Java) in telecommunications.
 * Projects should be runnable on a local laptop.
 * Enjoy working with a MacBook.
 
+## Metrics (enterprise polyrepo microservices)
+
+* avg. LOC ~ 3.5k
+
 ## Currently working on
 
 * Working towards leading a technical internal product.
