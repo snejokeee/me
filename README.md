@@ -9,8 +9,8 @@ Leading backend developer (Kotlin/Java) in telecommunications.
 ## Skills
 
 * Languages: `Java`, `Kotlin`
-* Frameworks: `Spring` (for example, Spring Boot, Spring MVC)
-* Build Tools: `Gradle` (my favorite), `Maven` (used in older projects)
+* Frameworks: `Spring` (Spring Boot, Spring MVC)
+* Build Tools: `Gradle` (my favorite), `Maven` (used in legacy projects)
 * AI: `Qwen`, `DeepSeek`
 
 ## My Values
@@ -20,10 +20,6 @@ Leading backend developer (Kotlin/Java) in telecommunications.
 * Prefer using known best practices instead of a complex way.
 * Projects should be runnable on a local laptop.
 * Enjoy working with a MacBook.
-
-## Metrics (enterprise polyrepo microservices)
-
-* avg. LOC ~ 3.5k
 
 ## Currently working on
 
