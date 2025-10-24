@@ -4,18 +4,28 @@
 
 ## Summary
 
- * Coding as much as possible with Java and Spring
+Leading backend developer (Kotlin/Java) in telecommunications.
 
 ## Skills
 
-* `Java` as a primary programming language
-* `Spring` microservices 
-* `gradle` is my favorite build tool
+* Languages: `Java`, `Kotlin`
+* Frameworks: `Spring` (for example, Spring Boot, Spring MVC)
+* Build Tools: `Gradle` (my favorite), `Maven` (used in older projects)
+* AI: `Qwen`, `DeepSeek`
+
+## My Values
+
+* Code should be easy to read, test, and change. It should also be easy for new newcomers to understand.
+* We all should write as many unit tests as possible (you have no excuses in era of AI).
+* Prefer using known best practices instead of a complex way.
+* Projects should be runnable on a local laptop.
+* Enjoy working with a MacBook.
 
 ## Currently working on
 
-* `reunderstanding of OOP`
-* `touching the open source`
+* Working towards leading a technical internal product.
+* Learning advanced OOP ideas and design patterns for complex systems.
+* Looking for ways to contribute to open-source projects.
 
 ## Work history
 
